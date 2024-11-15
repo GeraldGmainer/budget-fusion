@@ -1,0 +1,12 @@
+[submodule "budget-fusion-app"]
+	path = budget-fusion-app
+	url = git@github-budgetfusion:budgetfusion/budget-fusion-app.git
+[submodule "budget-fusion-assets"]
+	path = budget-fusion-assets
+	url = git@github-budgetfusion:budgetfusion/budget-fusion-assets.git
+[submodule "budget-fusion-web"]
+	path = budget-fusion-web
+	url = git@github-budgetfusion:budgetfusion/budget-fusion-web.git
+[submodule "budget-fusion-supabase"]
+	path = budget-fusion-supabase
+	url = git@github-budgetfusion:budgetfusion/budget-fusion-supabase.git
