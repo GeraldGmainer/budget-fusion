@@ -10,3 +10,6 @@
 [submodule "budget-fusion-supabase"]
 	path = budget-fusion-supabase
 	url = git@github-budgetfusion:budgetfusion/budget-fusion-supabase.git
+[submodule "budget-fusion-testdata"]
+	path = budget-fusion-testdata
+	url = git@github.com:budgetfusion/budget-fusion-testdata.git
