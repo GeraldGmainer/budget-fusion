@@ -9,7 +9,7 @@ This repository serves as the root of the project. Below are the submodules that
 - [Budget Fusion App](https://github.com/budgetfusion/budget-fusion-app): The Flutter app 
 - [Budget Fusion Web](https://github.com/budgetfusion/budget-fusion-web): The web interface 
 - [Budget Fusion Supabase](https://github.com/budgetfusion/budget-fusion-supabase): The backend and database setup with Supabase
-- [Budget Fusion Testdata](https://github.com/budgetfusion/budget-fusion-supabase): Web interface to generate test data
+- [Budget Fusion Testdata](https://github.com/budgetfusion/budget-fusion-testdata): Web interface to generate test data
 - [Budget Fusion Assets](https://github.com/budgetfusion/budget-fusion-assets): Shared assets like icons, images, and design files
 
 ## Getting Started
